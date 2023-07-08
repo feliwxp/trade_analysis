@@ -8,6 +8,12 @@ News API: https://alpaca.markets/docs/market-data/
 
 Financial News Sentiment Analysis Model: https://huggingface.co/ProsusAI/finbert
 
-# Conclusion 
+View main.ipynb for feature engineering and data preprocessing 
 
-To be updated
+View Randomforest.ipynb for machine learning
+
+# Insights 
+
+Due to the large amount of content required to be processed by FinBert, sentiment analysis is not used in the random forest machine learning analysis. Research will be continued. 
+
+Current analysis shows that the measure of volatility using features from the paper does not improve the baseline strategy. 
